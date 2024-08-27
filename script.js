@@ -13,7 +13,6 @@
 // _.isEqual(obj1, obj2);
 // // => true
 
-
 //*********************Day-4 Task : Second Question *****************************************************************/
 var request = new XMLHttpRequest();
 console.log(request);
